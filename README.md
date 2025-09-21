@@ -1,4 +1,4 @@
-# LLM Code Assistant (LoRA-ready) — MBPP
+# LLM Code Assistant
 
 A minimal, runnable **Jupyter** project that generates Python code with a small LLM and includes an **auto‑debug** loop. Optional: extend to LoRA fine‑tuning on the MBPP dataset.
 
