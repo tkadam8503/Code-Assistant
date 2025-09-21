@@ -15,7 +15,7 @@ pip install -r requirements.txt
 Then open **Project1_CodeAssistant.ipynb** and run cells from top to bottom.
 
 ## What’s inside
-- `Project1_CodeAssistant.ipynb` — generation + auto‑debug demo (runnable on CPU).
+- `CodeAssistant.ipynb` — generation + auto‑debug demo (runnable on CPU).
 - `requirements.txt` — lightweight dependencies for the notebook.
 
 ## Notes
